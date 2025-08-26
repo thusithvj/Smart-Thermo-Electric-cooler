@@ -18,3 +18,6 @@ Built a smart thermoelectric cooler that can precisely control and maintain temp
  • Gained hands-on experience in sensor design, feedback control, and thermal system integration
  • Applied instrumentation techniques to real-world engineering problems
  • Learned how to work with LabVIEW and NI hardware to create responsive, real-time systems
+
+![WhatsApp Image 2025-08-26 at 13 52 08_c50fbf9a](https://github.com/user-attachments/assets/4b8f9a06-731c-4a31-a00a-4c9fbfbdc18f)
+![WhatsApp Image 2025-08-26 at 13 52 09_34e1df26](https://github.com/user-attachments/assets/41e0257e-0fe6-4a93-b8b9-a90bed63f5ec)
